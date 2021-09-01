@@ -1,6 +1,7 @@
 <h1 align="center"> Hey 👋, Rao here </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Reugito&label=Profile%20views&color=0e75b6&style=flat" alt="Reugito" /> </p>
-🌱 I’m currently **learning full stack web development**<br>
+
+🌱 I’m currently learning **React-native**
 💬 Ask me about **Java, Python, MySQL and any Web Development Stuff**<br>
 📫 How to reach me  **raosahebdhotreedu@gmail.com**<br>
 
