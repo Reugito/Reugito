@@ -1,7 +1,7 @@
 <h1 align="center"> Hey 👋, Rao here </h1>
-- 🌱 I’m currently **learning full stack web development**<br>
-- 💬 Ask me about **Java, Python, MySQL and any Web Development Stuff**<br>
-- 📫 How to reach me  **raosahebdhotreedu@gmail.com**<br>
+🌱 I’m currently **learning full stack web development**<br>
+💬 Ask me about **Java, Python, MySQL and any Web Development Stuff**<br>
+📫 How to reach me  **raosahebdhotreedu@gmail.com**<br>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/raosahebdhotre/" target="_blank">
@@ -35,6 +35,17 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
 </p>
+<div style="margin-top: 5px">
+  <img align="left" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Reugito&show_icons=true&locale=en&layout=compact" 
+       alt="Reugito" />
+</div>
+<div style="margin-top: 15px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reugito&show_icons=true&locale=en" alt="Reugito" />
+</div>
+<div style="margin-top: 15px">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Reugito&" alt="Reugito" />
+</div>**
     
 
 
