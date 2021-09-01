@@ -37,17 +37,17 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
 </p>
-<div>
+
 <div style="margin-top: 15px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reugito&show_icons=true&locale=en&layout=compact" alt="Reugito" />
 </div>
-<div style="margin-top: 15px">
+<div style="margin-top: 15px"><br><br><br><br><br><br><br><br><br><br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reugito&show_icons=true&locale=en" alt="Reugito" />
 </div>
 <div style="margin-top: 15px">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Reugito&" alt="Reugito" />
 </div>
-</div>
+
     
 
 
