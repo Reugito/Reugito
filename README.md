@@ -37,7 +37,10 @@
     <a href="https://postman.com" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
-    <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <a href="https://postman.com" target="_blank"> 
+        <img src="https://www.flaticon.com/free-icon/mysql_919836" alt="postman" width="40" height="40"/>
+    </a>
+    
 </p>
     
 
