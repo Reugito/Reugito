@@ -1,7 +1,7 @@
 <h1 align="center"> Hey 👋, Rao here </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Reugito&label=Profile%20views&color=0e75b6&style=flat" alt="Reugito" /> </p>
 
-🌱 I’m currently learning **Spring-Boot**
+🌱 I’m currently learning **Full Stack Development**<br>
 💬 Ask me about **Java, Python, MySQL and any Web Development Stuff**<br>
 📫 How to reach me  **raosahebdhotreedu@gmail.com**<br>
 
