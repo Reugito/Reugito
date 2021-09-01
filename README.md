@@ -1,5 +1,5 @@
 <h1 align="center"> Hey 👋, Rao here </h1>
-🌱 I’m currently ** learning full stack web development **<br>
+🌱 I’m currently **learning full stack web development**<br>
 💬 Ask me about **Java, Python, MySQL and any Web Development Stuff**<br>
 📫 How to reach me  **raosahebdhotreedu@gmail.com**<br>
 
