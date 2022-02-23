@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/raosahebdhotre/" target="_blank">
-    <img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&trk=IN-SEM_google-adwords_Jordan-brand-sign-up&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B09Vy%2BrYhRdipaJbey7rTmg%3D%3D" alt="https://www.linkedin.com/in/raosahebdhotre/" height="30" width="40" />
+    <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="https://www.linkedin.com/in/raosahebdhotre/" height="30" width="40" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
