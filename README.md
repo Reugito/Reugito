@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/raosahebdhotre/" target="_blank">
-    <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="https://www.linkedin.com/in/raosahebdhotre/" height="30" width="40" />
+    <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="https://www.linkedin.com/in/raosahebdhotre/" height="30" width="40" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
