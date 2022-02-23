@@ -41,7 +41,7 @@
     </a>
 <!--  python    -->
       <a href="https://www.python.org/" target="_blank"> 
-        <img src="https://www.python.org/static/img/python-logo.png" alt="golang" width="50" height="50"/>
+        <img src="https://www.python.org/static/img/python-logo.png" alt="golang" width="50" height="70"/>
     </a>
 </p>
  
