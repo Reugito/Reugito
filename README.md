@@ -37,7 +37,11 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
       <a href="https://go.dev/" target="_blank"> 
-        <img src="https://go.dev/images/go-logo-white.svg" alt="golang" width="60" height="60"/>
+        <img src="https://go.dev/images/go-logo-white.svg" alt="golang" width="50" height="50"/>
+    </a>
+<!--  python    -->
+      <a href="https://go.dev/" target="_blank"> 
+        <img src="https://go.dev/images/go-logo-white.svg" alt="golang" width="50" height="50"/>
     </a>
 </p>
  
