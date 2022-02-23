@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/raosahebdhotre/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" alt="https://www.linkedin.com/in/raosahebdhotre/" height="30" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/128/226/226241.png" alt="https://www.linkedin.com/in/raosahebdhotre/" height="30" width="40" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,7 +41,7 @@
     </a>
 <!--  python    -->
       <a href="https://www.python.org/" target="_blank"> 
-        <img src="https://www.python.org/static/img/python-logo.png" alt="golang" width="50" height="70"/>
+        <img src="https://www.python.org/static/img/python-log" alt="golang" width="50" height="70"/>
     </a>
 </p>
  
