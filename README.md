@@ -36,6 +36,9 @@
     <a href="https://postman.com" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
+      <a href="https://go.dev/" target="_blank"> 
+        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fp.kindpng.com%2Fpicc%2Fs%2F360-3600447_go-language-logo-png-transparent-png.png&imgrefurl=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FhibJJxx_go-language-logo-png-transparent-png%2F&tbnid=TntTuweWyI7T2M&vet=12ahUKEwiIhOqcjpX2AhWOR2wGHUBuCEEQMygJegUIARC7AQ..i&docid=27h43NEm5uqVqM&w=500&h=280&q=svg%20of%20golang%20logo&hl=en-US&ved=2ahUKEwiIhOqcjpX2AhWOR2wGHUBuCEEQMygJegUIARC7AQ" alt="golang" width="40" height="40"/>
+    </a>
 </p>
  
 <div style="margin-top: 5px">
