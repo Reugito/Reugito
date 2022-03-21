@@ -40,9 +40,6 @@
         <img src="https://go.dev/images/go-logo-white.svg" alt="golang" width="50" height="50"/>
     </a>
 <!--  python    -->
-      <a href="https://www.python.org/" target="_blank"> 
-        <img src="https://www.python.org/static/img/python-log" alt="golang" width="50" height="70"/>
-    </a>
 </p>
  
 <div style="margin-top: 5px">
