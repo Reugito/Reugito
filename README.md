@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Reugito&label=Profile%20views&color=0e75b6&style=flat" alt="Reugito" /> </p>
 
 🌱 I’m a **Junior Software Engineer**<br>
-💬 Ask me about **Java, Golang, Spring Boot, Python, GoLang, MySQL, MongoDB and any Web Development Stuff**<br>
+💬 Ask me about **Java, Spring Boot, Golang, Nodejs, Reactjs  Python, GoLang, MySQL, MongoDB and Posgresql**<br>
 📫 How to reach me  **raosahebdhotreedu@gmail.com**<br>
 
 <h3 align="left">Connect with me:</h3>
