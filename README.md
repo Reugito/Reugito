@@ -14,8 +14,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.java.com" target="_blank"> 
-        <img src="https://github.com/Reugito/Reugito/blob/master/assets/java.png" alt="Java" width="40" height="40"/>
+    <a href="https://www.java.com" target="Java"> 
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
     </a>  
     <a href="https://spring.io/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
@@ -23,20 +23,23 @@
     <a href="https://golang.org/" target="_blank"> 
         <img src="https://go.dev/images/go-logo-white.svg" alt="Golang" width="50" height="50"/>
     </a>
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
+    <a href="https://www.python.org/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> 
     </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    <a href="https://www.javascript.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org/en" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://nestjs.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="Nestjs" width="40" height="40"/>
+    </a>
+    <a href="https://react.dev/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Nestjs" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-    </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
     </a>
      <a href="https://www.postman.com" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
