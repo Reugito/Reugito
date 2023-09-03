@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.java.com" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+        ![image](https://github.com/Reugito/Reugito/assets/65726495/dad64400-8437-4334-97e3-ea129adc14be)
     </a>  
     <a href="https://spring.io/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
