@@ -21,7 +21,7 @@
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
     </a>
     <a href="https://golang.org/" target="_blank" style="margin-left: 20px;"> 
-        <img src="https://go.dev/images/go-logo-white.svg" alt="Golang" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="50" height="50"/>
     </a>
     <a href="https://www.python.org/" target="_blank" style="margin-left: 20px;"> 
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> 
