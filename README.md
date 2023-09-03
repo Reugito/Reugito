@@ -14,44 +14,46 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.java.com" target="Java"> 
+    <a href="https://www.java.com" target="Java" style="margin-left: 10px;"> 
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
     </a>  
-    <a href="https://spring.io/" target="_blank"> 
+    <a href="https://spring.io/" target="_blank" style="margin-left: 20px;"> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
     </a>
-    <a href="https://golang.org/" target="_blank"> 
+    <a href="https://golang.org/" target="_blank" style="margin-left: 20px;"> 
         <img src="https://go.dev/images/go-logo-white.svg" alt="Golang" width="50" height="50"/>
     </a>
-    <a href="https://www.python.org/" target="_blank"> 
+    <a href="https://www.python.org/" target="_blank" style="margin-left: 20px;"> 
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> 
     </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
+    <a href="https://www.javascript.com/" target="_blank" style="margin-left: 20px;"> 
         <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="40" height="40"/>
     </a>
-    <a href="https://nodejs.org/en" target="_blank"> 
+    <a href="https://nodejs.org/en" target="_blank" style="margin-left: 20px;"> 
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="40" height="40"/>
     </a>
-    <a href="https://nestjs.com/" target="_blank"> 
+    <a href="https://nestjs.com/" target="_blank" style="margin-left: 20px;"> 
         <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="Nestjs" width="40" height="40"/>
     </a>
-    <a href="https://react.dev/" target="_blank"> 
+    <a href="https://react.dev/" target="_blank" style="margin-left: 20px;"> 
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Nestjs" width="40" height="40"/>
     </a>
-    <a href="https://git-scm.com/" target="_blank"> 
+    <a href="https://git-scm.com/" target="_blank" style="margin-left: 20px;"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
     </a>
-     <a href="https://www.postman.com" target="_blank"> 
+     <a href="https://www.postman.com" target="_blank" style="margin-left: 20px;"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
     </a>
 </p>
 
-<div style="margin-top: 5px">
+<div>
+  <div style="margin-top: 115px;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reugito&show_icons=true&locale=en&layout=compact" alt="Reugito" />
 </div>
-<div style="margin-top: 15px">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Reugito&show_icons=true&locale=en" alt="Reugito" />
+<div style="margin-top: 15px;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Reugito&show_icons=true&locale=en" alt="Reugito" />
+</div><br/>
 </div>
-<div style="margin-top: 15px">
+<div style="margin-top: 225px">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Reugito&" alt="Reugito" />
 </div>
