@@ -8,9 +8,14 @@
 📫 How to reach me: **raosahebdhotreedu@gmail.com**<br>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/raosahebdhotre/" target="_blank">
+<div>
+  <a href="https://www.linkedin.com/in/raosahebdhotre/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/226/226241.png" alt="LinkedIn" height="30" width="30" />
 </a>
+<!-- <a href="mailto:raosahebdhotreedu@gmail.com" target="_blank" style="margin-top:10px">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="30" />
+</a> -->
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
